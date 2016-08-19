@@ -1,2 +1,5 @@
 siinger , a wordpress theme
-site£º[Siinger](http://siinger.com)
+
+- site
+
+[Siinger](http://siinger.com)
