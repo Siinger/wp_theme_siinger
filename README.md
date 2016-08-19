@@ -13,7 +13,7 @@ siinger , a wordpress theme
 
 ## Screen
 
-![](http://oby8evr99.bkt.clouddn.com/wp-content/uploads/2016/08/screen_small.png)
+![screen](https://github.com/Siinger/wp_theme_siinger/blob/master/screenshot.png)
 
 
 ## Roadmap
