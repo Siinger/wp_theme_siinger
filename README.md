@@ -13,7 +13,7 @@ siinger , a wordpress theme
 
 ## Screen
 
-<img src="http://siinger.com/wp-content/uploads/2016/08/QQͼƬ20160819184646.png" alt="QQͼƬ20160819184646" width="1858" height="995" class="aligncenter size-full wp-image-138" />
+![](http://oby8evr99.bkt.clouddn.com/wp-content/uploads/2016/08/screen_small.png)
 
 
 ## Roadmap
